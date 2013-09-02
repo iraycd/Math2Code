@@ -19,7 +19,7 @@
 ## Nearer-Farther
 + Take 1 _input(number)_ `x`.
 + Give two numbers `a` and `b` with some default values.
-+ Find the which value in `a` and `b` are **nearer** and **father** to the `x` and assign them to `n` and `f`.
++ Find which value in `a` and `b` is **nearer** and **farther** to the `x` and assign them to `n` and `f`.
 
 
 ## More-Less
@@ -28,9 +28,9 @@
 + Print the output.
 
 
-## Addition-Substrate
+## Addition-Subtract
 + Take 2 _inputs(number)_ `x` and `y`.
-+ **Add** and **substract** `x` and `y` and store them in a variable `a` and `s`
++ **Add** and **subtract** `x` and `y` and store them in a variable `a` and `s`
 + Print `a` and `s`
 
 
